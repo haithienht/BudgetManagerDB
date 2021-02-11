@@ -4,13 +4,70 @@
             "username": "admin",
             "password": "admin",
             "fullname": "Administrator",
-            "shortname": "Admin"
+            "shortname": "Admin",
+            "country": "us"
         },
         {
             "username": "haithien",
             "password": "haithien",
             "fullname": "NPHThien",
-            "shortname": "Thien"
+            "shortname": "Thien",
+            "country": "vn"
+        }
+    ],
+    "budget_type": [
+        {
+            "name": "bank",
+            "label": "Ngân hàng"
+        },
+        {
+            "name": "wallet",
+            "label": "Ví"
+        }
+    ],
+    "budget": [
+        {
+            "username": "haithien",
+            "records": [
+                {
+                    "id": "haithien01",
+                    "type": "wallet",
+                    "name": "Ví của Thiên"
+                },
+                {
+                    "id": "haithien02",
+                    "type": "bank",
+                    "name": "BIDV"
+                }
+            ]
+        }
+    ],
+    "category": [
+        {
+            "username": "haithien",
+            "negative": "Ăn Uống,Phương Tiện,Gia Đình,Quà",
+            "positive": "Lương,Quà"
+        }
+    ],
+    "budget_history": [
+        {
+            "username": "haithien",
+            "records": [
+                {
+                    "budget_id": "haithien01",
+                    "value": -40000,
+                    "category": "Phương Tiện",
+                    "Detail": "Đổ xăng",
+                    "Created": "2021-02-11 12:10"
+                },
+                {
+                    "budget_id": "haithien02",
+                    "value": 8000000,
+                    "category": "Lương",
+                    "Detail": "",
+                    "Created": "2021-02-04 09:30"
+                }
+            ]
         }
     ]
 }
