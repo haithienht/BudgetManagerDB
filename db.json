@@ -17,12 +17,21 @@
     ],
     "budget_type": [
         {
-            "name": "bank",
-            "label": "Ngân hàng"
-        },
-        {
-            "name": "wallet",
-            "label": "Ví"
+            "username": "haithien",
+            "records": [
+                {
+                    "name": "bank",
+                    "label": "Ngân hàng"
+                },
+                {
+                    "name": "wallet",
+                    "label": "Ví"
+                },
+                {
+                    "name": "other",
+                    "label": "Khác"
+                }
+            ]
         }
     ],
     "budget": [
