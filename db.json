@@ -63,14 +63,14 @@
             "username": "haithien",
             "records": [
                 {
-                    "budget_id": "haithien01",
+                    "budgetId": "haithien01",
                     "value": -40000,
                     "category": "Phương Tiện",
                     "detail": "Đổ xăng",
                     "Created": "2021-02-11 12:10"
                 },
                 {
-                    "budget_id": "haithien02",
+                    "budgetId": "haithien02",
                     "value": 8000000,
                     "category": "Lương",
                     "detail": "",
