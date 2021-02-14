@@ -41,12 +41,14 @@
                 {
                     "id": "haithien01",
                     "type": "wallet",
-                    "name": "Ví của Thiên"
+                    "name": "Ví của Thiên",
+                    "currentValue": 5250000
                 },
                 {
                     "id": "haithien02",
                     "type": "bank",
-                    "name": "BIDV"
+                    "name": "BIDV",
+                    "currentValue": 8000000
                 }
             ]
         }
@@ -68,6 +70,13 @@
                     "category": "Phương Tiện",
                     "detail": "Đổ xăng",
                     "Created": "2021-02-11 12:10"
+                },
+                {
+                    "budgetId": "haithien01",
+                    "value": -20000,
+                    "category": "Ăn Uống",
+                    "detail": "Hủ tiếu",
+                    "Created": "2021-02-12 07:30"
                 },
                 {
                     "budgetId": "haithien02",
