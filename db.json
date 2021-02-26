@@ -48,7 +48,7 @@
                     "id": "haithien02",
                     "type": "bank",
                     "name": "BIDV",
-                    "currentValue": 8000000
+                    "currentValue": 10000000
                 }
             ]
         }
@@ -80,10 +80,24 @@
                 },
                 {
                     "budgetId": "haithien02",
-                    "value": 8000000,
+                    "value": 5000000,
                     "category": "Lương",
                     "detail": "",
                     "Created": "2021-02-04 09:30"
+                },
+                {
+                    "budgetId": "haithien02",
+                    "value": 5000000,
+                    "category": "Lương",
+                    "detail": "",
+                    "Created": "2021-01-01 09:30"
+                },
+                {
+                    "budgetId": "haithien01",
+                    "value": -500000,
+                    "category": "Gia Đình",
+                    "detail": "Lì xì",
+                    "Created": "2021-02-14 09:30"
                 }
             ]
         }
